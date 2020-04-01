@@ -1,0 +1,10 @@
+h1 {
+    color:blue;
+    text-align: center;
+}
+
+.name{
+    color:red;
+    text-align:center;
+    border: 10px solid black;
+}
